@@ -5,7 +5,7 @@ This is a simple two-category model for images written by me. It is used as an i
 
 For this project, we need Pytorch and its series packages. I recommand to use PyCharm or Jupyter Notebook to better our operation.
 
-First use split_dataset.py to access the divided data set, and then start using train_lenet.py for training and testing
+First use split_dataset.py to access the divided data set, and then use train_lenet.py to start training and testing
 
 Hope this is the beginning of your interest, and good luck!
 
