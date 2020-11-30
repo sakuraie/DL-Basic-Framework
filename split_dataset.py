@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-# @file name  : 1_split_dataset.py
+# @file name  : split_dataset.py
 # @author     : Weijie Ma
 # @date       : 2020-11-30 15:30:00
 # @brief      : 将数据集划分为训练集，验证集，测试集
