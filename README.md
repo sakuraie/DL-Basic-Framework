@@ -7,4 +7,4 @@ First use split_dataset.py to access the divided data set, and then start using 
 
 Hope this is the beginning of your interest, and good luck!
 
-To get complete dataset of CatDogData, please visit my Alibaba-Cloud-Disk share link: 
+To get complete dataset of CatDogData, please visit my Baidu Cloud shared link: 
