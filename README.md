@@ -1,11 +1,11 @@
 # DL-Basic-Framework
 Deep Learning Basic Framework
 
-This is a simple two-category model for images written by me. It is used as an introduction to deep learning. Although the task is simple, it nearly covers all the elements of deep learning training. Future expansion and complexity are based on these elements and steps.
+This is a simple two-category model for images classification written by me. It is used as an introduction to deep learning. Although the task is simple, it nearly covers all the elements of deep learning training. Future expansion and complexity are based on these elements and steps.
 
 For this project, we need Pytorch and its series packages. I recommand to use PyCharm or Jupyter Notebook to better our operation.
 
-First use split_dataset.py to access the divided data set, and then use train_lenet.py to start training and testing
+First use split_dataset.py to acquire the divided data set, and then use train_lenet.py to start training and testing
 
 Hope this is the beginning of your interest, and good luck!
 
